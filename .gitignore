@@ -1,0 +1,15 @@
+__pycache__
+checkpoints
+datasets
+VOC2012-True
+.vscode
+*.pyc
+.idea/
+__pycache__
+results
+checkpoints_bak
+cityscapes
+weight
+datasets/data/VOCdevkit/VOC2012-True
+
+test_results
